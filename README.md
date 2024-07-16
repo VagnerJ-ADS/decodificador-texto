@@ -23,11 +23,25 @@ Este projeto foi desenvolvido como parte de um challenge do **Oracle Next Educat
 
 ## 👨‍💻 Time
 
-<strong>Desenvolvedor:</strong> [VagnerJ-ADS](https://github.com/VagnerJ-ADS)
-<br>
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/174191098?v=4" width="100" height="100" alt="VagnerJ-ADS">
+  <strong>Desenvolvedor:</strong> [VagnerJ-ADS](https://github.com/VagnerJ-ADS)
+  <br>
+  <img src="https://avatars.githubusercontent.com/u/174191098?v=4" width="100" height="100" alt="VagnerJ-ADS" style="margin-top: 10px;">
 </p>
+
+## 🖼️ Imagens do Código em Funcionamento
+
+Aqui estão algumas imagens das telas do decodificador:
+
+![Imagem 1](imagens/imagem1.jpg)
+
+![Imagem 2](imagens/imagem2.jpg)
+
+![Imagem 3](imagens/imagem3.jpg)
+
+![Imagem 4](imagens/imagem4.jpg)
+
+![Imagem 5](imagens/imagem5.jpg)
 
 ## 📝 Como Utilizar
 
