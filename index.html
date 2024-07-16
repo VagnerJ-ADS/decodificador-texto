@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Decodificador de Texto</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="container">
+        <div class="input-area">
+            <textarea id="input-text" placeholder="Digite seu texto"></textarea>
+            <div class="buttons">
+                <div id="exclamation">
+                    <img src="/assets/Exclamacao.png" alt="Exclamação">
+                    <p>Apenas letras minúsculas e sem acento.</p>
+                </div>
+                <button id="encrypt-btn">Criptografar</button>
+                <button id="decrypt-btn">Descriptografar</button>
+            </div>
+            <p id="error-message"></p>
+        </div>
+        <div class="output-area">
+            <div id="no-message">
+
+                <h1 id="message-title">Nenhuma mensagem encontrada</h1>
+                <p id="message-paragraph">Digite um texto que você deseja criptografar ou descriptografar.</p>
+            </div>
+
+            <textarea id="output-text" readonly></textarea>
+            <button id="copy-btn">Copiar</button>
+
+            <p id="copy-message">Texto copiado para a área de transferência!</p>
+        </div>
+    </div>
+    <script src="codigo.js"></script>
+</body>
+<footer>&copy; 2024 Developed by Vagner Silva</footer>
+
+</html>
